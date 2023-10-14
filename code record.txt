@@ -1,0 +1,21 @@
+git init
+
+git status
+
+git add .
+
+git status
+
+git commit -m "message"  #failed,who you are
+
+git config --global user.email "lilywang888@gmail.com"
+ git config --global user.name "lilywang888"
+
+git commit -m "message    #success
+
+#create new public repository on github website, then next
+
+git remote add origin https://github.com/lilywang888/git_jenkins_integration.git
+
+git push -u origin master
+
